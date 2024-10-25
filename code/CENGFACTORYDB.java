@@ -21,8 +21,8 @@ public class CENGFACTORYDB implements ICENGFACTORYDB{
     public void initialize() {
 
         String user = "e2547875";
-        String password = "IM5JR5UxW47L";
-        String url = "jdbc:mysql://144.122.71.128:8080/db2547875";
+        String password = "removed for privacy";
+        String url = "removed for privacy";
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
